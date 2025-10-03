@@ -111,6 +111,8 @@ Run Python notebooks to reproduce data cleaning and visualizations.
 
 SQL queries are available in notebooks or Snowflake to aggregate metrics.
 
+presentation link: https://www.canva.com/design/DAGzKdvhD7c/EV353Ys9Ng1jcboHeeu1wQ/edit?utm_content=DAGzKdvhD7c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **👩‍💻 Author**
 
 MADHURIDEVI DHARMARAJ
